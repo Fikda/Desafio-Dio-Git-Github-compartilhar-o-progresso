@@ -1,0 +1,5 @@
+https://dgadelha.github.io/Portugol-Webstudio/  # Permite criar programas em português estruturado
+
+https://www.roads.run/blog/os-principais-metodos-ageis-onde-e-como-utiliza-los  # Fala sobre os métodos Ágeis, como Scrum, Milestones, OKRs, Lean-Agile e Kanban. 
+
+https://gist.github.com/2545add34e4fec21ec16.git  # Comandos do Git 
